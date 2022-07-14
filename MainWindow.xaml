@@ -8,5 +8,6 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <TextBox Text="Hallo World!!"/>
+        <TextBox Text="Welcome git!"/>
     </Grid>
 </Window>
